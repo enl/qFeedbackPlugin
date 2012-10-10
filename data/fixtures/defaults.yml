@@ -1,0 +1,41 @@
+csSetting:
+  form_class:
+    name: feedback_form_class
+    type: input
+    widget_options: ''
+    value: FeedbackForm
+    setting_group: feedback
+    setting_default: FeedbackForm
+    slug: feedback_form_class
+  email_class:
+    name: feedback_email_class
+    type: input
+    widget_options: ''
+    value: FeedbackMail
+    setting_group: feedback
+    setting_default: FeedbackMail
+    slug: feedback_email_class
+  email_subject:
+    name: feedback_email_subject
+    type: input
+    widget_options: ''
+    value: 'Обратная связь'
+    setting_group: feedback
+    setting_default: 'Обратная связь'
+    slug: feedback_email_subject
+  admin_email:
+    name: feedback_admin_email
+    type: input
+    widget_options: ''
+    value: 'admin@site.com'
+    setting_group: feedback
+    setting_default: 'admin@site.com'
+    slug: feedback_admin_email
+  mailer_address:
+    name: feedback_mailer_address
+    type: input
+    widget_options: ''
+    value: 'no-reply@site.com'
+    setting_group: feedback
+    setting_default: 'no-reply@site.com'
+    slug: feedback_mailer_address
